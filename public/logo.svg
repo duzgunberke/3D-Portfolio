@@ -23,6 +23,6 @@
   <text x="100" y="110" font-size="80" text-anchor="middle" fill="white">
     <animate attributeName="opacity" dur="2s" repeatCount="indefinite" values="0.3; 1; 0.3"/>
     <animateTransform attributeName="transform" attributeType="XML" type="rotate" dur="4s" repeatCount="indefinite" from="0" to="360" />
-    Berke
+    🚀
   </text>
 </svg>
